@@ -1,22 +1,6 @@
 # ☀️ SolarVerse
 
-**Interactive AI-Powered Solar System Simulator**
 
-SolarVerse is an interactive web application that enables users to explore, interact with, and generate realistic solar system simulations. Users can visualize planetary motion, customize celestial bodies, and create AI-generated solar system models for learning and exploration.
-
----
-
-## ✨ Features
-
-### 🌍 Interactive Solar System
-- Explore the Sun and all eight planets in an interactive 3D environment.
-- Zoom, rotate, and navigate around celestial bodies.
-- Click on planets to view detailed information.
-
-### 🚀 Real-Time Simulation
-- Dynamic planetary orbits with adjustable simulation speed.
-- Pause, resume, and reset simulations.
-- Smooth animations and realistic orbital movement.
 
 ### 🤖 AI Solar System Generator
 - Generate unique solar system simulations from user prompts.
